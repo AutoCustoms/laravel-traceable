@@ -1,0 +1,21 @@
+{
+    "name": "autocustoms/laravel-traceable",
+    "description": "A handy trace system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henning Glatter-Götz",
+            "email": "henning@glatter-gotz.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "laravel/framework": "5.4.*"
+    },
+    "autoload": {
+        "psr-0": { "AutoCustoms\\Traceable\\": "src/" }
+    },
+    "minimum-stability": "dev"
+}
